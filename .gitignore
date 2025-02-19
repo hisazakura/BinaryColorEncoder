@@ -364,3 +364,6 @@ FodyWeavers.xsd
 
 # Input and output files of the encoder
 Encoder/*.bin
+
+# Test Project
+testalg/
