@@ -367,3 +367,6 @@ Encoder/*.bin
 
 # Test Project
 testalg/
+
+# Unused Project
+BinaryColorEncoder/
