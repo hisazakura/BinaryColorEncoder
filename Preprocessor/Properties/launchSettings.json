@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Preprocessor": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"video.mp4\" -o \"output.bin\""
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
